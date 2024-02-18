@@ -1,0 +1,2 @@
+step,type,amount,nameOrig,oldBalanceOrg,newBalanceOrig,nameDest,oldbalanceDest,newBalanceDest,transactionID
+1,TRANSFER,10,test,10,10,10,10,10,xxxx
